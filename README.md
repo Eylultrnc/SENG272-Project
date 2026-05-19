@@ -6,6 +6,8 @@ ISO 15939 Measurement Process Simulator
 Student Name: Eylül Turunç
 Student ID: 202328057
 
+Presentation video: https://drive.google.com/file/d/1q2WuSiVwQh5AV79998onS-ADi6EwvFfH/view?usp=sharing
+
 Project Description
 This Java Swing desktop application simulates the 5 core steps of the ISO/IEC 15939 measurement process:
 1. Profile
